@@ -9,9 +9,9 @@
 
 // TODO WeiDU prompts
 @-1000= "Il mod %TP2_FILE_NAME% ha"
-@-1001= "diversi componenti opzionali.\nPer far prima, si puÚ scegliere di applicare una medesima azione a tutti i componenti piuttosto che trattarli singolarmente..\n"
+@-1001= "diversi componenti opzionali.\nPer far prima, si pu√≤ scegliere di applicare una medesima azione a tutti i componenti piuttosto che trattarli singolarmente..\n"
 @-1002= "Che cosa vuoi fare con quei componenti NON ANCORA installati?\n[I] Installarli,  [S] Saltarli, [A] Trattarli singolarmente?"
-@-1003= "Che cosa vuoi fare con quei componenti GI¿ installati?\n[R] Reinstallarli, [U] Rimuoverli, [S] Saltarli, [A] Trattarli singolarmente? "
+@-1003= "Che cosa vuoi fare con quei componenti GI√Ä installati?\n[R] Reinstallarli, [U] Rimuoverli, [S] Saltarli, [A] Trattarli singolarmente? "
 
 @-1004= "Fai una copia di backup del file:"
 @-1005= "e cerca aiuto qui:"
@@ -55,7 +55,7 @@
 @-1035= "in Lingua"
 
 @-1036= "Salto il GRUPPO ["
-@-1037= "] perchË non conforme ai requisiti richiesti."
+@-1037= "] perch√® non conforme ai requisiti richiesti."
 
 @-1038= "[A] Trattare singoli componenti, [S] Saltare tutto, o scegliere una alternativa predefinita:"
 @-1039= "[A] Trattare singoli componenti, [R] Reinstallare la configurazione corrente, [U] Rimuovere tutto, [S] Saltare tutto, o scegliere una alternativa predefinita:"
@@ -76,6 +76,6 @@
 @-1053= "Russo"
 @-1054= "Ucraino"
 
-@-1060= "\nQuesto gioco Ë disponibile in diverse Lingue, ma WeiDU non sa quale Lingua Ë stata scelta quando questa modifica Ë stata installata.\n\nIndica quale Lingua era in uso al momento dell'installazione di questa modifica. La tua scelta rimarr‡ valida fintanto che WeiDU Ë attivo ma non puÚ essere salvata permanentemente.\n"
+@-1060= "\nQuesto gioco √® disponibile in diverse Lingue, ma WeiDU non sa quale Lingua √® stata scelta quando questa modifica √® stata installata.\n\nIndica quale Lingua era in uso al momento dell'installazione di questa modifica. La tua scelta rimarr√† valida fintanto che WeiDU √® attivo ma non pu√≤ essere salvata permanentemente.\n"
 @-1061= "\nSto usando"
 @-1062= " e "
